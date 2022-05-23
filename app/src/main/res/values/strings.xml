@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">android-ml2</string>
+    <string name="app_name">Meet Birds</string>
     <string name="load_image">Load Image</string>
     <string name="take_image">Take Image</string>
     <string name="output">Output:</string>
