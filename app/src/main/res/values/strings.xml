@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android-ml2</string>
+    <string name="load_image">Load Image</string>
+    <string name="take_image">Take Image</string>
+    <string name="output">Output:</string>
+    <string name="result">Result</string>
+    <string name="click_on_the_result_text_to_search_on_google">Click on the result text to search on Google</string>
+    <string name="place_holder">Place Holder</string>
+</resources>
