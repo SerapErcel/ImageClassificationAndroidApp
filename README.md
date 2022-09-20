@@ -1,4 +1,4 @@
-# TensorFlow Lite İle Makine Öğrenmesi İçeren Android Uygulaması 
+# TensorFlow Lite İle Makine Öğrenmesi İçeren Kuş Tanıma Android Uygulaması 
 ## TensorFlow Lite & Kotlin
 Proje hakkında detaylı açıklama için:
 
